@@ -1,9 +1,4 @@
 
-<p align="center"> 
-  visitor count<br>
-  <img src="https://profile-counter.glitch.me/zyhwitness/count.svg" />
-</p>
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=zyhwitness&theme=solarized-dark&hide_border=true&border_radius=5&card_width=800">
 </p>
